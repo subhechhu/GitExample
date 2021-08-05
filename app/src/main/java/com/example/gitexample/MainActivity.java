@@ -13,6 +13,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.e("TAGGED", "test for new checkin");
+
         Log.e("TAGGED", "test for issue");
+
+        String shyam = "Shyam kisihor";
+
     }
 }
